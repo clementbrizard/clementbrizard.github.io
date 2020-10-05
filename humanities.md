@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Sciences humaines"
-permalink: https://clementbrizard.github.io/sciences-humaines
+permalink: /sciences-humaines
+---
 
 # Sciences humaines
 ## Histoire des Techniques

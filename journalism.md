@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Journalisme"
-permalink: https://clementbrizard.github.io/journalisme
+permalink: /journalisme
+---
 
 # Journalisme 
 
