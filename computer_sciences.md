@@ -60,7 +60,7 @@ SQL, Pentaho (ETL), Birt (reporting)
 
 [Dépôt](https://github.com/clementbrizard/book-sells-datawarehouse) 
 
-### Stockage de données en haut volumétrie
+### Stockage de données en haute volumétrie
 À partir d’un fichier de relevés météo finlandais (2005-2014), construction de stockages adaptés pour renvoyer à la demande et dans un temps acceptable des courbes et cartes sur les données.
 
 mai - juin 2019
