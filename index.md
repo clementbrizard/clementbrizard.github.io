@@ -1,3 +1,4 @@
-# Hello World
-
-<a href="./assets/CV_BRIZARD_CLEMENT.pdf" target="_blank">PDF</a>
+# Réalisations
+- <a href="./computer_sciences">Informatique</a>
+- <a href="./humanities">Sciences humaines</a>
+- <a href="./journalism">Journalisme</a>
