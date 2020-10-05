@@ -1,4 +1,4 @@
 # Réalisations
-- <a href="./computer_sciences">Informatique</a>
-- <a href="./humanities">Sciences humaines</a>
-- <a href="./journalism">Journalisme</a>
+- <a href="./informatique">Informatique</a>
+- <a href="./sciences-humaines">Sciences humaines</a>
+- <a href="./journalisme">Journalisme</a>
