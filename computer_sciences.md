@@ -51,7 +51,7 @@ R, RStudio
 
 [Code source](https://github.com/clementbrizard/football-transfers) et [rapport](./assets/rapport_sy09.pdf)
 
-## Datawarehouse et décisionnel
+### Datawarehouse et décisionnel
 À partir d'un fichier de ventes de livres, modélisation puis alimentation d'un datawarehouse et construction d'un reporting sur les ventes.
 
 février - avril 2019
