@@ -51,7 +51,7 @@ R, RStudio
 
 [Code source](https://github.com/clementbrizard/football-transfers) et [rapport](./assets/rapport_sy09.pdf)
 
-## Datawarehouse et décisionnel
+### Datawarehouse et décisionnel
 À partir d'un fichier de ventes de livres, modélisation puis alimentation d'un datawarehouse et construction d'un reporting sur les ventes.
 
 février - avril 2019
@@ -85,4 +85,4 @@ octobre - décembre 2018
 
 Protégé (Stanford University), SPARQL, web sémantique
 
-[Dépôt](https://github.com/clementbrizard/ontology-hutech) et [rapport](./assets/rapport_ia03)
+[Dépôt](https://github.com/clementbrizard/ontology-hutech) et [rapport](./assets/rapport_ia03.pdf)
