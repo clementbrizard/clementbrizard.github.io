@@ -5,4 +5,4 @@
 
 # Liens
 - [CV](./assets/CV.pdf)
-- [Github][https://github.com/clementbrizard]
+- [Github](https://github.com/clementbrizard)
