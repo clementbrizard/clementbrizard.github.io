@@ -23,7 +23,7 @@ Node.js, Express, npm
 
 [Code source](https://gitlab.utc.fr/tx-techno-num/impactometre)
 
-[Accéder au site](https://impactometre2.herokuapp.com/)
+[Accéder au site](https://impactometre.fr)
 
 ### Site de e-commerce et back-office
 Conception et développement d'un site web de commande de colis de viande et graines. Développement du back-office : gestion des produits, des commandes, génération des factures, etc. Ajout de l'envoi de mail automatique après commande et à tout moment depuis le back-office.
