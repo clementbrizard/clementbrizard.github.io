@@ -4,5 +4,4 @@
 - [Journalisme](./journalism.md)
 
 # Liens
-- [CV](./assets/CV.pdf)
 - [Github](https://github.com/clementbrizard)
