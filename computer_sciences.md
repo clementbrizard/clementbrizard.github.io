@@ -14,6 +14,8 @@ février - juillet 2019
 
 Java, Spring MVC, JSP, Maven, PostgreSQL
 
+[Rapport de stage](https://clementbrizard.github.io/assets/rapport_tn10.pdf)
+
 ### impactomètre
 Développement du backend d'un site web pour comparer l'impact environnemental d'une réunion en visio-conférence et d'une réunion en présentiel. Rédaction d'un article scientifique sur la méthode.
 
