@@ -33,7 +33,7 @@ août 2019 - en cours
 Node.js, Express, npm, MongoDB, EJS
 
 ### Agoraviz
-Développement du backend d'une application de débat où les contributions sont représentées sous forme de graphes (D3.js).
+Développement du backend d'une application de débat où les contributions sont représentées sous forme de graphes.
 
 mai - juillet 2019
 
