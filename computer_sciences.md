@@ -17,7 +17,7 @@ Java, Spring MVC, JSP, Maven, PostgreSQL
 [Rapport de stage](https://clementbrizard.github.io/assets/rapport_tn10.pdf)
 
 ### impactomètre
-Développement du backend d'un site web pour comparer l'impact environnemental d'une réunion en visio-conférence et d'une réunion en présentiel. Rédaction d'un article scientifique sur la méthode.
+Développement du backend d'un site web pour comparer l'impact environnemental d'une réunion en visio-conférence et d'une réunion en présentiel. Rédaction d'un article scientifique sur la contruction de la méthode de calcul.
 
 novembre 2019 - janvier 2020
 
@@ -26,6 +26,8 @@ Node.js, Express, npm
 [Code source](https://gitlab.utc.fr/tx-techno-num/impactometre)
 
 [Accéder au site](https://impactometre.fr)
+
+[Accéder à l'article sur la méthode de calcul](https://hal.archives-ouvertes.fr/halshs-03120479)
 
 ### Site de e-commerce et back-office
 Conception et développement d'un site web de commande de colis de viande et graines. Développement du back-office : gestion des produits, des commandes, génération des factures, etc. Ajout de l'envoi de mail automatique après commande et à tout moment depuis le back-office.
