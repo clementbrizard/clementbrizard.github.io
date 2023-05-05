@@ -6,7 +6,7 @@ permalink: /sciences-humaines
 
 # Sciences humaines
 ## Histoire des Techniques
-- Le self-tracking et la société du bien-être au 21ème siècle, 2018
+- <a href="assets/analyse_self-tracking_bien-etre.pdf" target="_blank">Le self-tracking et la société du bien-être au 21ème siècle, 2018</a>
 - <a href="assets/propos_mail.pdf" target="_blank">Propos sur le mail : éclairages sur la culture des communications numériques, 2016</a>
 - <a href="assets/reappropriation_technologies.pdf" target="_blank">La réappropriation des technologies : méthode et enjeux, 2016</a>
 - <a href="assets/concepts_technique.pdf" target="_blank">Les concepts de la technique à l'usage de l'ingénieur du 21ème siècle, 2016</a>
