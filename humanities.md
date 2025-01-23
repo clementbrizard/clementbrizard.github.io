@@ -18,5 +18,3 @@ permalink: /sciences-humaines
 ## Histoire des médias
 - <a href="assets/owni.pdf" target="_blank">OWNI, un précédent dans le journalisme ou un journalisme sans précédent ?</a>
 
-## Sociologie et économie
-- L'économie numérique est-elle possible sans le micro-travail ?, 2019
