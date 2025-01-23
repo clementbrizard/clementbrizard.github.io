@@ -1,7 +1,7 @@
 # Réalisations
-- [Informatique](./computer_sciences.md)
-- [Sciences humaines](./humanities.md)
 - [Journalisme](./journalism.md)
+- [Sciences humaines](./humanities.md)
+- [Informatique](./computer_sciences.md)
 
 # Liens
 - [Github](https://github.com/clementbrizard)
