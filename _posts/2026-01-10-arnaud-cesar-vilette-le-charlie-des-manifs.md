@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher"
-permalink: articles/20260110-arnaud-cesar-vilette-le-charlie-des-manifs
 ---
 
-Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher
-==================================================================
+# Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher
+
 
 **Inratable depuis 2019 dans les manifestations parisiennes, le photographe déguisé en** “**Où est Charlie**” **a quitté son job d’ingénieur. Désormais à plein temps sur la photo, son identité professionnelle n’est pas figée, entre artivisme et photojournalisme.**
 

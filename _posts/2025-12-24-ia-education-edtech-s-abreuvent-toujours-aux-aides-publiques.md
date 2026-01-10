@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "IA à l’école : les EdTech s’abreuvent toujours aux aides publiques"
-permalink: articles/20251224-ia-education-edtech-s-abreuvent-toujours-aux-aides-publiques
 ---
 
-IA à l’école : les EdTech s’abreuvent toujours aux aides publiques
-==================================================================
+# IA à l’école : les EdTech s’abreuvent toujours aux aides publiques
 
 **Les annonces de marchés publics pour le numérique éducatif se succèdent, avec une surenchère depuis l’arrivée de l’IA générative. Les comptes LinkedIn des entrepreneurs, les appels d’offres et plusieurs rapports institutionnels, dessinent un secteur encore en partie dépendant aux subventions.**
 

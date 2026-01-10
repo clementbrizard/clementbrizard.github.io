@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "« À ce moment-là, il faut aussi inscrire les autres pays !» : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge"
-permalink: articles/20251205-marches-unesco-boulevard-ornano
 ---
 
-"À ce moment-là, il faut aussi inscrire les autres pays !" : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge
-==================================================================
+# "À ce moment-là, il faut aussi inscrire les autres pays !" : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge
 
 **Sur ce marché historique du Nord de Paris, l’initiative d’un patron du secteur laisse de marbre. Clients comme commerçants déplorent le déclin du nombre d’étals, mais continuent à faire vivre un mode de consommation auxquels ils tiennent.**
 

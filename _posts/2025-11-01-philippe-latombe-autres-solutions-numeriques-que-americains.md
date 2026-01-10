@@ -1,11 +1,9 @@
 ---
 layout: page
-title: "Philippe Latombe, député : “Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux”"
-permalink: articles/20251101-philippe-latombe-autres-solutions-numeriques-que-americains
+title: "Philippe Latombe, député : \"Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux\""
 ---
 
-Philippe Latombe, député : “Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux”
-==================================================================
+# Philippe Latombe, député : “Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux”
 
 **Très engagé sur les questions numériques et de libertés publiques, le député centriste revient sur les débats en cours autour du budget, son attachement à la souveraineté numérique, et à un développement régulé de la vidéosurveillance, un secteur avec lequel il a été accusé d’avoir des conflits d’intérêts.**
 

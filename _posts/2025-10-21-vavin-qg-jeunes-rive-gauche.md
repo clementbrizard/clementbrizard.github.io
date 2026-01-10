@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "La place Vavin, un QG des jeunes de la rive gauche"
-permalink: /articles/20251021-vavin-qg-jeunes-rive-gauche
 ---
 
-La place Vavin, un QG des jeunes de la rive gauche
-==================================================================
+# La place Vavin, un QG des jeunes de la rive gauche
 
 <b>Au cœur du VI<sup>e</sup> arrondissement, à deux pas du jardin du Luxembourg, se trouve la place Vavin. À toute heure, les écoliers, collégiens et lycéens des nombreux établissements voisins se retrouvent sur le petit terre-plein. Un point de ralliement qui draine bien au-delà du quartier.</b>
 

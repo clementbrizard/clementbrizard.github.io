@@ -1,11 +1,9 @@
 ---
 layout: page
 title: "Municipales 2026 : à l’heure de la parité, où en est la Mayenne ?"
-permalink: articles/20251214-municipales-2026-parite-ou-en-est-la-mayenne
 ---
 
-Municipales 2026 : à l’heure de la parité, où en est la Mayenne ?
-=================================================================
+# Municipales 2026 : à l’heure de la parité, où en est la Mayenne ?
 
 **Une nouvelle loi doit favoriser la parité dans les conseils municipaux des communes de moins de 1 000 habitants. À trois mois des élections, elle est encore loin d'être atteinte en Mayenne, et pas uniquement dans les petites communes.**
 

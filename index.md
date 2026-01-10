@@ -1,11 +1,12 @@
 # École de journalisme (IFP, sept. 2025 - sept. 2027)
 
-- <a href="articles/20260110-arnaud-cesar-vilette-le-charlie-des-manifs" target="_blank">Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher (10/01/2026)</a>
-- <a href="articles/20251224-ia-education-edtech-s-abreuvent-toujours-aux-aides-publiques" target="_blank">IA à l’école : les EdTech s’abreuvent toujours aux aides publiques (24/12/2025)</a>
-- <a href="articles/20251214-municipales-2026-parite-ou-en-est-la-mayenne" target="_blank">Municipales 2026 : à l’heure de la parité, où en est la Mayenne ? (14/12/2025)</a>
-- <a href="articles/20251205-marches-unesco-boulevard-ornano" target="_blank">"À ce moment-là, il faut aussi inscrire les autres pays !" : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge (5/12/2025)</a>
-- <a href="articles/20251101-philippe-latombe-autres-solutions-numeriques-que-americains" target="_blank">Philippe Latombe, député : “Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux” (1/11/2025)</a> 
-- <a href="articles/20251021-vavin-qg-jeunes-rive-gauche" target="_blank">La place Vavin, un QG des jeunes de la rive gauche (21/10/2025)</a>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 # Correspondant local pour le Courrier Picard (sept. 2018 - juin 2019)
 
