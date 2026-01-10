@@ -5,7 +5,6 @@ title: "Arnaud César Vilette, le photographe et Charlie des manifs qui continue
 
 # Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher
 
-
 **Inratable depuis 2019 dans les manifestations parisiennes, le photographe déguisé en** “**Où est Charlie**” **a quitté son job d’ingénieur. Désormais à plein temps sur la photo, son identité professionnelle n’est pas figée, entre artivisme et photojournalisme.**
 
 Il est venu sans son bonnet fétiche. Ces premiers jours de janvier, les températures dépassent à peine les 3°C, mais Arnaud César Vilette est en congé. Son couvre-chef aux rayures rouges et blanches, comme celui de Charlie, ce petit personnage à retrouver sur des images surchargées d’autres bonshommes, il le retrouvera lundi, en même temps que son appareil photo. Pour l’heure, il se réchauffe dans un café de l’est parisien où il a ses habitudes, à deux pas de la place de la Nation. Pour avoir suivi presque toutes les manifestations parisiennes depuis 2018, cette place, il la connaît comme sa poche.
