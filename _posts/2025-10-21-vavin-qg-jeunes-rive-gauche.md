@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "La place Vavin, un QG des jeunes de la rive gauche"
 ---
 

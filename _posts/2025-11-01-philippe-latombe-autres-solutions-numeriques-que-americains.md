@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Philippe Latombe, député : \"Il y a d’autres solutions numériques que simplement prendre des américains et rester chez eux\""
 ---
 

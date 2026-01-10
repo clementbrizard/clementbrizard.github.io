@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "IA à l’école : les EdTech s’abreuvent toujours aux aides publiques"
 ---
 

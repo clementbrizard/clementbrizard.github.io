@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Municipales 2026 : à l’heure de la parité, où en est la Mayenne ?"
 ---
 

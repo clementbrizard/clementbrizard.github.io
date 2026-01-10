@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher"
 ---
 
@@ -9,12 +8,14 @@ title: "Arnaud César Vilette, le photographe et Charlie des manifs qui continue
 
  <figure style="width:50%; display:block; margin:auto">
     <img src="/assets/posts-images/arnaud-cesar-vilette.jpg" alt="Arnaud César Vilette">
-    <figcaption>Arnaud César Vilette - Crédits : DR</figcaption>
+    <figcaption>Arnaud César Vilette - DR</figcaption>
 </figure>
+
+_Le 10 janvier 2026_
 
 Il est venu sans son bonnet fétiche. Ces premiers jours de janvier, les températures dépassent à peine les 3°C, mais Arnaud César Vilette est en congé. Son couvre-chef aux rayures rouges et blanches, comme celui de Charlie, ce petit personnage à retrouver sur des images surchargées d’autres bonshommes, il le retrouvera lundi, en même temps que son appareil photo. Pour l’heure, il se réchauffe dans un café de l’est parisien où il a ses habitudes, à deux pas de la place de la Nation. Pour avoir suivi presque toutes les manifestations parisiennes depuis 2018, cette place, il la connaît comme sa poche.
 
-Arnaud César Vilette est arrivé à Paris en 2017, débarqué du Pas-de-Calais. Jeune trentenaire, il gagne sa vie comme ingénieur dans l’industrie pharmaceutique. La photo n’est alors pour lui qu’un loisir, depuis une petite dizaine d’années. Fin novembre 2018, il suit depuis chez lui le premier acte des Gilets Jaunes. La semaine suivante, il y va. Ce n’est pas sa première manif, qui remonte elle à 2016, à Lille, contre la loi Travail. À Paris, ce jour-là, “*ça pète sur les Champs-Élysées*”. Il se filme en *live* sur Facebook, inspiré par le journaliste indépendant Remy Buisine, alors massivement suivi sur l’application Periscope – qui n’existe plus aujourd’hui.
+Arnaud César Vilette est arrivé à Paris en 2017, débarqué du Nord. Jeune trentenaire, il gagne sa vie comme ingénieur dans l’industrie pharmaceutique. La photo n’est alors pour lui qu’un loisir, depuis une petite dizaine d’années. Fin novembre 2018, il suit depuis chez lui le premier acte des Gilets Jaunes. La semaine suivante, il y va. Ce n’est pas sa première manif, qui remonte elle à 2016, à Lille, contre la loi Travail. À Paris, ce jour-là, “*ça pète sur les Champs-Élysées*”. Il se filme en *live* sur Facebook, inspiré par le journaliste indépendant Remy Buisine, alors massivement suivi sur l’application Periscope – qui n’existe plus aujourd’hui.
 
 “**Être là où l’histoire se fait**”
 
@@ -38,7 +39,7 @@ Pendant sa garde à vue, Arnaud César Vilette est interrogé sur son compte Ins
 
 **À la fois artiviste et photographe**
 
-“*J’ai hésité à le formuler comme ça, explique-t-il, mais aujourd’hui je préfère montrer qui je suis, cohérent. Le directeur de mon premier collectif de journalistes m’avait dit que je devais rester neutre, apolitique, et que je n’avais pas su choisir entre artiviste [militant utilisant l’art et l’humour] et photographe. Pour moi, les deux coexistent.*”
+“*J’ai hésité à le formuler comme ça, explique-t-il, mais aujourd’hui je préfère montrer qui je suis, cohérent. Un directeur d'agence [de photos de presse] m’avait dit que je devais rester neutre, apolitique, et que je n’avais pas su choisir entre artiviste [militant utilisant l’art et l’humour] et photographe. Pour moi, les deux coexistent.*”
 
 Il dit s’être politisé au contact de ses amis, en marge de ses études scientifiques. Originaire de la banlieue de Valenciennes, il considère que ses parents (ouvrier et femme de ménage) ont “*des idées de gauche, mais sans le savoir*”.
 

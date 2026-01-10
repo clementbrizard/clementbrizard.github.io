@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "« À ce moment-là, il faut aussi inscrire les autres pays !» : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge"
 ---
 
