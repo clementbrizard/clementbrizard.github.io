@@ -1,5 +1,6 @@
 # École de journalisme (IFP, sept. 2025 - sept. 2027)
 
+- <a href="articles/20260110-arnaud-cesar-vilette-le-charlie-des-manifs" target="_blank">Arnaud César Vilette, le photographe et Charlie des manifs qui continue à se chercher (10/01/2026)</a>
 - <a href="articles/20251224-ia-education-edtech-s-abreuvent-toujours-aux-aides-publiques" target="_blank">IA à l’école : les EdTech s’abreuvent toujours aux aides publiques (24/12/2025)</a>
 - <a href="articles/20251214-municipales-2026-parite-ou-en-est-la-mayenne" target="_blank">Municipales 2026 : à l’heure de la parité, où en est la Mayenne ? (14/12/2025)</a>
 - <a href="articles/20251205-marches-unesco-boulevard-ornano" target="_blank">"À ce moment-là, il faut aussi inscrire les autres pays !" : sur le boulevard Ornano, la pétition pour inscrire les marchés à l’Unesco interroge (5/12/2025)</a>
